@@ -1,6 +1,4 @@
-# php simple shopping cart with stripe built on top of travesary media's framework for more info: https://github.com/Aivirth/TraversyMVC
-
-
+# php simple shopping cart with stripe built on top of travesary media's framework for more info: https://github.com/WindYari/shopping-stripe.git
 
 ###place your credentials in the config file
 
@@ -10,6 +8,6 @@
 
 ## if you want to change the app name you **MUST** change it also in public>>.htacess file 
 
-Demo: https://youtu.be/dOK0DgV7qBc
+
 
 
